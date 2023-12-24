@@ -5,6 +5,10 @@
 <h1 align="center">👟 Voro Nike SNKRS Account Generator 👟</h1>
 <h4 align="center">⭐ Leave a star for more! ⭐</h4>
 
+<p align="center">
+Has been sitting on my desktop for years, removed some basic features to prevent leeching, feel free to modify yourself!
+</p>
+
 ## Commands:
 
 #### **Install Dependencies**
