@@ -1,3 +1,6 @@
+// Made by @voromade
+// If you paid for this, you have been scammed
+// https://github.com/voromade/SNKRS-Account-Generator
 const { firefox } = require("playwright-extra");
 const faker = require("faker");
 const inbox = require("inbox");
@@ -188,6 +191,9 @@ class NikeAccountGen {
 }
 
 const run = async () => {
+  // Made by @voromade
+  // If you paid for this, you have been scammed
+  // https://github.com/voromade/SNKRS-Account-Generator
   console.log(`Running ${amount} task(s)...`);
   let tasks = Array.from({ length: amount }, () => new NikeAccountGen());
   let results = (await Promise.allSettled(tasks.map((x) => x.run()))).filter(

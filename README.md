@@ -13,10 +13,10 @@
 npm install or yarn
 ```
 
-#### **Serve For Development**
+#### **Run the script**
 
 ```
-npm start or yarn start
+node .
 ```
 
 ## Features
