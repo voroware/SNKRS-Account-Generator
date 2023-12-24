@@ -1,0 +1,32 @@
+{
+  "name": "account-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "5.5.3",
+    "fingerprintjs2": "^2.1.4",
+    "got": "11.8.6",
+    "imap": "^0.8.19",
+    "inbox": "^1.1.59",
+    "locate-chrome": "^0.1.1",
+    "locate-firefox": "^0.1.1",
+    "mailparser": "^3.6.4",
+    "playwright": "^1.31.2",
+    "playwright-extra": "^4.3.6",
+    "proper-lockfile": "^4.1.2",
+    "puppeteer": "^19.7.5",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin": "^3.2.3",
+    "puppeteer-extra-plugin-adblocker": "^2.13.6",
+    "puppeteer-extra-plugin-anonymize-ua": "^2.4.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "secure-random-password": "^0.2.3",
+    "tough-cookie": "^4.1.2"
+  }
+}

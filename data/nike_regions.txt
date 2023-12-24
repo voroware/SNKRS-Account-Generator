@@ -1,0 +1,32 @@
+United States: nike.com
+Canada: nike.com/ca
+United Kingdom: nike.com/gb
+France: nike.com/fr
+Germany: nike.com/de
+Australia: nike.com/au
+Japan: nike.com/jp
+Italy: nike.com/it
+Spain: nike.com/es
+Netherlands: nike.com/nl
+Sweden: nike.com/se
+Denmark: nike.com/dk
+Norway: nike.com/no
+Finland: nike.com/fi
+Poland: nike.com/pl
+Belgium: nike.com/be
+Austria: nike.com/at
+Switzerland: nike.com/ch
+Ireland: nike.com/ie
+New Zealand: nike.com/nz
+Singapore: nike.com/sg
+Hong Kong: nike.com/hk
+South Korea: nike.com/kr
+Taiwan: nike.com/tw
+South Africa: nike.com/za
+Turkey: nike.com/tr
+United Arab Emirates: nike.com/ae
+Saudi Arabia: nike.com/sa
+Israel: nike.com/il
+Switzerland: nike.com/ch
+Colombia: nike.com/co
+Morocco: nike.com/ma

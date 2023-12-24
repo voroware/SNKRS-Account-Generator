@@ -1,0 +1,7 @@
+Gmail: imap.gmail.com
+Outlook.com (including Hotmail and Live): imap-mail.outlook.com
+Yahoo Mail: imap.mail.yahoo.com
+AOL Mail: imap.aol.com
+iCloud Mail: imap.mail.me.com
+Zoho Mail: imap.zoho.com
+ProtonMail: imap.protonmail.com (requires ProtonMail Bridge for IMAP access)

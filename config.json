@@ -1,0 +1,11 @@
+{
+    "amount": 100,
+    "headless": true,
+    "catchall": "<your catchall domain>",
+    "tld": "<refer to data/nike_regions.txt>",
+    "imap": {
+        "domain": "<refer to data/imap_domains.txt>",
+        "user": "<your imap email>",
+        "password": "<your imap password>"
+    }
+}
