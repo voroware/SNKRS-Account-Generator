@@ -30,8 +30,8 @@ npm start or yarn start
 ## Todo
 
 - [x] Initial Base
-- [ ] 25 Stars - Proxy Support
-- [ ] 50 Stars - Python Version
+- [ ] Proxy Support - 25 Stars
+- [ ] Python Version - 50 Stars
 
 ## License
 
